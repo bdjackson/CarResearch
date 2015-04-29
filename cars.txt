@@ -1,0 +1,9 @@
+car,price,city_mpg,hwy_mpg,trunk_volume,total_cargo
+Honda Fit LX (manual),15650,29,37,16.6,52.7
+Honda Fit LX (cvt),16450,33,41,16.6,52.7
+Ford Fiesta S (manual),14365,28,36,14.9,40.3
+Ford Fiesta S (auto),15460,27,37,14.9,40.3
+Ford Fiesta SE ecoboost (manual),15595,31,43,14.9,40.3
+Kia Rio (manual),14815,27,37,0,0
+Kia Rio (auto),16115,27,37,0,0
+Used Honda Fit,12998,28,35,16.6,52.7
